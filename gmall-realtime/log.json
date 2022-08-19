@@ -1,0 +1,76 @@
+{
+  "common": {
+    "ar": "310000",
+    "ba": "iPhone",
+    "ch": "Appstore",
+    "is_new": "0",
+    "md": "iPhone Xs Max",
+    "mid": "mid_25",
+    "os": "iOS 13.3.1",
+    "uid": "48",
+    "vc": "v2.1.132"
+  },
+  "displays": [
+    {
+      "display_type": "activity",
+      "item": "2",
+      "item_type": "activity_id",
+      "order": 1,
+      "pos_id": 5
+    },
+    {
+      "display_type": "activity",
+      "item": "2",
+      "item_type": "activity_id",
+      "order": 2,
+      "pos_id": 5
+    },
+    {
+      "display_type": "query",
+      "item": "3",
+      "item_type": "sku_id",
+      "order": 3,
+      "pos_id": 2
+    },
+    {
+      "display_type": "query",
+      "item": "3",
+      "item_type": "sku_id",
+      "order": 4,
+      "pos_id": 2
+    },
+    {
+      "display_type": "query",
+      "item": "5",
+      "item_type": "sku_id",
+      "order": 5,
+      "pos_id": 4
+    },
+    {
+      "display_type": "query",
+      "item": "2",
+      "item_type": "sku_id",
+      "order": 6,
+      "pos_id": 1
+    },
+    {
+      "display_type": "query",
+      "item": "10",
+      "item_type": "sku_id",
+      "order": 7,
+      "pos_id": 2
+    },
+    {
+      "display_type": "recommend",
+      "item": "3",
+      "item_type": "sku_id",
+      "order": 8,
+      "pos_id": 1
+    }
+  ],
+  "page": {
+    "during_time": 7490,
+    "page_id": "home"
+  },
+  "ts": 1624442451000
+}
